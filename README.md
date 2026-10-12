@@ -8,7 +8,16 @@
 
 <br/>
 
-01000101 01011000 01000101 01001100 01011001 01001110 00110100 00110000 00110100
+<!-- EXELYN404 // GITHUB METRICS -->
+<div align="center">
+
+<img
+  src="./github-metrics.svg"
+  width="100%"
+  alt="EXELYN404 GitHub Metrics"
+/>
+
+</div>
 
 <br/>
 
