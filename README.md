@@ -1,49 +1,73 @@
-<div align="center">
+ <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=EXELYN404&fontSize=76&fontColor=00FF41&fontAlignY=45&animation=fadeIn" />
+# `EXELYN404`
 
-<!-- ANIMATED TERMINAL TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;ACCESS+GRANTED;WELCOME+TO+MY+DIGITAL+WORLD;EXELYN404+%2F%2F+GHOST+IN+THE+SYSTEM" alt="Typing SVG" />
+### `IDENTITY UNKNOWN // SIGNAL ACTIVE`
 
-<br/>
+`01000101 01011000 01000101 01001100 01011001 01001110`
 
-<!-- EXELYN404 // GITHUB METRICS -->
-<div align="center">
+**Nothing is what it seems.**
 
-<img
-  src="./github-metrics.svg"
-  width="100%"
-  alt="EXELYN404 GitHub Metrics"
-/>
+*I build things that speak for themselves.*
+
+---
+
+`[ SYSTEMS ]` &nbsp; ` [ EXPERIMENTS ]` &nbsp; `[ UNKNOWN ]`
 
 </div>
 
-<br/>
+<br>
 
-<!-- TECHNOLOGY -->
-<img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,js,git,github,vscode&theme=dark" alt="Technology stack"/>
+## `01 // TRANSMISSION`
 
-<br/><br/>
+```text
+Not everything needs to be explained.
+Not everyone needs to be identified.
 
-<!-- SYSTEM INFORMATION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=45&section=header&text=%2F%2F%20GITHUB%20SYSTEM%20DATA&fontColor=00FF41&fontSize=20" width="100%"/>
+Behind every signal, there is a source.
+Behind every system, there is a mind.
 
-<br/>
+I prefer to leave traces,
+not introductions.
+```
 
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=EXELYN404&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41" width="49%" alt="GitHub Stats"/>
+## `02 // OPERATIONS`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXELYN404&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="49%" alt="Top Languages"/>
+```text
+> exploring unknown possibilities
+> creating digital systems
+> experimenting beyond boundaries
+> turning ideas into reality
+```
 
-<br/><br/>
+## `03 // DIGITAL FOOTPRINT`
 
-<!-- CONTRIBUTION ACTIVITY -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EXELYN404&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+[ ACCESS REPOSITORIES ↗](https://github.com/EXELYN404?tab=repositories)
 
-<br/>
+[ VIEW PUBLIC ACTIVITY ↗](https://github.com/EXELYN404?tab=overview)
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=65&section=footer&text=01000101%20%2F%2F%20EXELYN404&fontColor=00FF41&fontSize=20" />
+## `04 // SYSTEM STATUS`
+
+```yaml
+designation: EXELYN404
+identity: undisclosed
+presence: active
+visibility: limited
+communication: minimal
+```
+
+## `05 // LAST MESSAGE`
+
+> The absence of information is not the absence of existence.
+
+<div align="center">
+
+---
+
+`EXELYN404`
+
+**NO FACE. NO LABEL. JUST TRACES.**
+
+`END OF TRANSMISSION // 404`
 
 </div>
