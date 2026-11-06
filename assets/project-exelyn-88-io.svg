@@ -6,13 +6,13 @@
 <rect width="430" height="30" fill="#07100a"/>
 <line x1="0" y1="30" x2="430" y2="30" stroke="#00ff41" stroke-opacity="0.2"/>
 <circle cx="18" cy="15" r="4.5" fill="#ff5f56"/><circle cx="34" cy="15" r="4.5" fill="#ffbd2e"/><circle cx="50" cy="15" r="4.5" fill="#27c93f"/>
-<text x="70" y="19" font-size="11.5" fill="#6bb97b">~/projects/excode</text>
-<text x="22" y="64" font-size="19" font-weight="700" fill="#00ff41">&#9656; excode</text>
+<text x="70" y="19" font-size="11.5" fill="#6bb97b">~/projects/exelyn.88.io</text>
+<text x="22" y="64" font-size="19" font-weight="700" fill="#00ff41">&#9656; exelyn.88.io</text>
 <text x="22" y="88" font-size="12.5" fill="#9be7ab">no description // classified</text>
 <circle cx="27" cy="109" r="4.5" fill="#00ff41"/>
-<text x="38" y="113" font-size="12" fill="#4f9a5d">HTML</text>
+<text x="38" y="113" font-size="12" fill="#4f9a5d">unknown</text>
 <text x="170" y="113" font-size="12" fill="#4f9a5d">&#9733; 0</text>
-<text x="230" y="113" font-size="12" fill="#4f9a5d">updated 3mo ago</text>
+<text x="230" y="113" font-size="12" fill="#4f9a5d">updated today</text>
 <rect width="430" height="128" fill="url(#l)"/>
 </g>
 <rect x="1" y="1" width="428" height="126" rx="10" fill="none" stroke="#00ff41" stroke-opacity="0.4"/>
